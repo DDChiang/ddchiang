@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/web-app-custom.css">
 	<title>DDCHIANG</title>
 	<link href='https://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="script.js"></script>
     <?php include('header.php'); ?>
