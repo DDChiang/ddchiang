@@ -5,8 +5,8 @@
     <link rel="stylesheet" type="text/css" href="css/home-custom.css">
 	<link rel="stylesheet" type="text/css" href="css/web-app-custom.css">
 	<title>DDCHIANG</title>
-	<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
-     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<link href='https://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="script.js"></script>
     <?php include('header.php'); ?>
   </head>
