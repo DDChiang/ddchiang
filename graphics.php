@@ -37,7 +37,8 @@
 		<div class="box-50"><img src="graphics/wicked-icons.png"></div>
 		
 		<div class="box-50"> <img src="prev-pics/stgram-logos.png"></div>
-		  <div class="box-50"><img src="graphics/strawby-black.png"></div>
+		<div class="box-50"><img src="prev-pics/gringott-icons.png"></div>
+		  <div class="box-50"><img src="prev-pics/gringott-icons.png"></div>
 		   
 	  	</div>
 	</div>
