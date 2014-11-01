@@ -14,6 +14,39 @@
   
   <body>
     <div class="content-wrapper">
+	  <!--Gringott-->
+	  <div class="box-100">
+		  <div class="box-50">
+			<div class="proj-image">
+			  <img src="prev-pics/gringott-home.png">
+			</div>
+			<div class="proj-image">
+			  <img src="prev-pics/gringott-sign-up.png">
+			</div>
+		  </div>
+		  
+		  
+		  <div class="box-50">
+			<div class="proj-blob">
+				<div class="proj-title">GRINGOTT</div>
+				<div class="proj-desc">
+				   
+					A bank must be trustable. As the safe guarder of potentially millions of dollars/euros, 
+					banks must give the impression of reliability and competence while staying accessible to the little guy.
+					<br><br>
+					I created a simple design and a slew of icons for Gringott, a fictional Swiss and international people's bank. By minimizing lines and text,
+					and combining institutionalized graphics with compact orange icons, I added a bit of energy to an otherwise heavy site that would belong to an 
+					international bank. 
+				</div>
+				
+			</div>
+			<div class="proj-prev" id="hide2">
+			  <img src="prev-pics/gringott-icons.png">
+			</div>
+			
+		  </div>
+	    </div>
+	  
 	  <!--GuiWallet-->
 	  <div class="box-100">
 		<div class="box-50">
