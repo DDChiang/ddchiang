@@ -31,7 +31,7 @@
 				   <br> 4. Footer Extras = site map (site links) +  place for site feedback
 					
 				   <br><br>
-				   <button id="blacked"><a href="#">Site under construction</a></button>
+				   <button ><a href="#" id="blacked">Site under construction</a></button>
 				   
 				</div>
 				<div class="proj-prev" id="hide2">
@@ -73,7 +73,7 @@
 					and combining institutionalized graphics with compact orange icons, I added a bit of energy to an otherwise heavy site that would belong to an 
 					international bank. 
 				</div>
-				<button id="blacked"><a href="#">Site under construction</a></button>
+				<button ><a href="#" id="blacked">Site under construction</a></button>
 			</div>
 			<div class="proj-prev" id="hide2">
 			  <img src="prev-pics/gringott-icons.png">
