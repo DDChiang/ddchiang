@@ -19,14 +19,14 @@
 	    Hello there! My name is Deedee and welcome to my personal portfolio. 
 	   </div>
 	   <div class="blurb">
-	    Frank truth: I'm a wannabe UI/UX developer and designer looking to take my first step into the industry. 
+	    Frank truth: I'm UI/UX enthusiast looking to take my first step into the industry. 
 	    <br>
-	    While my previous stint as an Econ major gave me a lot of experience working with people, 
-	    <br>my heart inevitably ran away with my passion for building and designing the user's experience. 
+	    While my previous stint as an Econ major and a PR/Marketing Director gave me a lot of experience working with people, 
+	    <br>my heart inevitably ran away with my passion for building and designing the user experience. 
 	  </div>
 	   <div class="blurb">
-	    Since 5 months ago, I've been steadily developing a portfolio of mock sites and getting
-		ready for the impending internship.
+	    I've been steadily developing a portfolio of live mock sites and getting
+		ready for the big leap. 
 		
 	  </div>
 	  <div class="blurb">
