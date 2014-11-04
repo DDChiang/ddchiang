@@ -14,6 +14,41 @@
   
   <body>
     <div class="content-wrapper">
+	   <!--LA Showroom-->
+	  <div class="box-100">
+		<div class="box-50">
+			<div class="proj-blob">
+				<div class="proj-title">LA Showroom</div>
+				<div class="proj-desc">
+				   I did a redesign of LA Showroom's site modelled after some of the latest e-commerce designs.
+				   Part of the goal was to maximize "ad space" for "new collections/brands" while showcasing each of the many features LA Showroom has.
+				   <br><br>
+				   While the original home page was ad heavy, this new page is significantly lighter, visually organizing itself from top to bottom 
+				   into the following sections: 
+				   <br><br> 1. promo section (trending, new arrivals, new designer feature, featured items and sales + quick link to stores)
+				   <br> 2. the meat of LA Showroom( partnering stores, collections, categories[women, men, children, handbags, accessories]) 
+				   <br> 3. Pitch to potential buyers: "Sign up" and gain access to exclusive LA Showroom member perks
+				   <br> 4. Footer Extras = site map (site links) +  place for site feedback
+					
+				   <br><br>
+				   <button id="blacked"><a href="#">Site under construction</a></button>
+				   
+				</div>
+				<div class="proj-prev" id="hide2">
+					<img src="prev-pics/lashow-bags.png">
+				</div>
+			</div>
+			
+		  </div>
+		  
+		  <div class="box-50">
+			<div class="proj-image">
+			  <img src="prev-pics/lashow-home-filled.png">
+			</div>
+		  
+		  </div>	
+	  </div>
+	  
 	  <!--Gringott-->
 	  <div class="box-100">
 		  <div class="box-50">
@@ -38,7 +73,7 @@
 					and combining institutionalized graphics with compact orange icons, I added a bit of energy to an otherwise heavy site that would belong to an 
 					international bank. 
 				</div>
-				
+				<button id="blacked"><a href="#">Site under construction</a></button>
 			</div>
 			<div class="proj-prev" id="hide2">
 			  <img src="prev-pics/gringott-icons.png">

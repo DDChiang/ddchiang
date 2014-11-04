@@ -72,6 +72,10 @@
   padding: 0em;
 }
 
+.box-50 button #blacked {
+  background: black;
+}
+
 button a {
   display: block;
   color: white;
