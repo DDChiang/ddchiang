@@ -54,6 +54,22 @@ body {
   margin-right: .8em;
 }
 
+#menu-button {
+  width: 100%;
+  text-align: center;
+  background: rgba(0,0,0,0.7);
+  float: left;
+  position:relative;
+  top: .7em;
+  cursor: pointer;
+  display: none;
+  transition: all 0.2s ease-in-out;
+}
+
+#menu-button:hover {
+  background: #000;
+}
+
 .img-panel {
   width: 100%;
   position:relative;
@@ -94,6 +110,7 @@ body {
   border: none;
   color: white;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 #start-bttn a:hover {
@@ -233,6 +250,7 @@ body {
   border: none;
   color: white;
   cursor: pointer;
+  transition: all 0.2s ease-in-out;
 }
 
 #subscribe-bttn:hover {
@@ -338,5 +356,77 @@ body {
     width: 740px;
   }
   
+  .panel-text {
+    margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	text-align: center;
+  }
   
+}
+
+@media (max-width:612px) {
+  .header {
+    background: rgba(0,0,0,0.7);
+	position:absolute;
+	z-index: 3;
+  }
+  
+  #menu-button {
+  display: block;
+ }
+
+  #nav ul {
+    position: relative;
+	top: .7em;
+    width: 100%;
+	margin: 0;
+	display: none;
+  }
+  
+  #nav ul li {
+    width: 49.7%;
+	display: block;
+	float: left;
+	
+  }
+  
+  #nav ul li a {
+    padding: 1em;
+	margin: 0;
+	text-align: center;
+	background: rgba(0,0,0,0.7);
+	transition: all 0.2s ease-in-out;
+  }
+  
+  #nav ul li a:hover {
+    background: #000;
+  }
+  
+  #nav ul li:nth-child(1) {
+   
+    margin-right: .5%;
+	margin-bottom: .5%;
+  }
+  #nav ul li:nth-child(2) {
+   
+    margin-bottom: .5%;
+  }
+  #nav ul li:nth-child(3) {
+    margin-right: .5%;
+	margin-bottom: .5%;
+  }
+  #nav ul li:nth-child(4) {
+  margin-bottom: .5%;
+  }
+}
+
+@media (max-width:528px) {
+  #hero-text {
+    font-size: 2em;
+  }
+  
+  #caption {
+    font-size: 1.2em;
+  }
 }
