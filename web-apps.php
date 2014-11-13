@@ -31,7 +31,7 @@
 				   <br> 4. Footer Extras = site map (site links) +  place for site feedback
 					
 				   <br><br>
-				   <button ><a href="#" id="blacked">Site under construction</a></button>
+				   <button ><a href="#" id="blacked">Site yet to be built</a></button>
 				   
 				</div>
 				<div class="proj-prev" id="hide2">
@@ -72,8 +72,10 @@
 					I created a simple design and a slew of icons for Gringott, a fictional Swiss and international people's bank. By minimizing lines and text,
 					and combining institutionalized graphics with compact orange icons, I added a bit of energy to an otherwise heavy site that would belong to an 
 					international bank. 
+					<br><br>
+					So far, I've created just the home page. In the next few days, I will be adding a sign up/registration page and adding a database to the back-end. 
 				</div>
-				<button ><a href="#" id="blacked">Site under construction</a></button>
+				<button ><a target="_blank" href="sites/gringotts/index.html" id="blacked">Site under construction</a></button>
 			</div>
 			<div class="proj-prev" id="hide2">
 			  <img src="prev-pics/gringott-icons.png">
