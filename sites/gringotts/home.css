@@ -421,6 +421,22 @@ body {
   }
 }
 
+@media (max-width: 544px) {
+  .icon-box-wrapper-1, .icon-box-wrapper-2 {
+    display: none;
+	
+  }
+  
+  .footer-links-wrapper {
+    display: none;
+  }
+  
+  .mix-wrapper {
+    padding-top: 0em;
+	border-top: none;
+  }
+}
+
 @media (max-width:528px) {
   #hero-text {
     font-size: 2em;
