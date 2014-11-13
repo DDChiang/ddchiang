@@ -76,6 +76,11 @@
   background: black;
 }
 
+.box-50 #blacked-out {
+  background: grey;
+  cursor: none;
+}
+
 button a {
   display: block;
   color: white;

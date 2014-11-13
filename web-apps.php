@@ -31,7 +31,7 @@
 				   <br> 4. Footer Extras = site map (site links) +  place for site feedback
 					
 				   <br><br>
-				   <button ><a href="#" id="blacked">Site yet to be built</a></button>
+				   <button ><a target="_blank" href="sites/la-showroom/index.php" id="blacked">Site under construction</a></button>
 				   
 				</div>
 				<div class="proj-prev" id="hide2">
