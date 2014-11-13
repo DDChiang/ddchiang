@@ -19,15 +19,16 @@
 	    Hello there! My name is Deedee and welcome to my personal portfolio. 
 	   </div>
 	   <div class="blurb">
-	    Frank truth: I'm UI/UX enthusiast looking to take my first step into the industry. 
-	    <br>
+	    I am UI/UX and Web Developing enthusiast looking to take my first step into the industry. 
+	    <br><br>
 	    While my previous stint as an Econ major and a PR/Marketing Director gave me a lot of experience working with people, 
-	    <br>my heart inevitably ran away with my passion for building and designing the user experience. 
+	    my heart inevitably ran away with my passion for building sites from scratch and designing the user experience. 
 	  </div>
 	   <div class="blurb">
 	    I've been steadily developing a portfolio of live mock sites and getting
 		ready for the big leap. 
-		
+		<br><br>
+		View my past codes here: <a target="_blank" id="email" href="https://github.com/DDChiang">github/DDChiang</a>
 	  </div>
 	  <div class="blurb">
 	    See anything you like? Let me know at <a id="email" href="mailto:ddeechng@gmail.com">ddeechng@gmail.com</a>
